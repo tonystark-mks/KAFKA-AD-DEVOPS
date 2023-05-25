@@ -1,0 +1,7 @@
+.DS_Store
+*.retry
+*.pyc
+*.idea
+generated_ssl_files/
+error_files/
+*base-config.yml
